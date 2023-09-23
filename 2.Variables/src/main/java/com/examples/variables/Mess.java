@@ -1,4 +1,5 @@
-package com.examples.variables;/*
+package com.examples.variables;
+/*
 // original code with static errors
 public class Mess {
   public static void main(String[] args) {   
