@@ -28,7 +28,7 @@ We represent each student as an *instance*, or *object*, of the ```Student``` cl
 
 This is ```object-oriented programming``` because programs are built around objects and their interactions. An object contains state and behavior.
 
-![alt text](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.%20Classes%20and%20Objects/diagram%2Bof%2Ban%2Bobject-01.png)
+![alt text](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/diagram%2Bof%2Ban%2Bobject-01.png)
 
 Classes are a blueprint for objects. Blueprints detail the general structure. For example, all students have an ID, all courses can enroll a student, etc.
 
@@ -43,11 +43,11 @@ What should a savings account do?
 - Deposit money.
 - Withdraw money.
 
-![alt text](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.%20Classes%20and%20Objects/diagram%2Bof%2Ban%2Bobject-02.png)
+![alt text](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/diagram%2Bof%2Ban%2Bobject-02.png)
 
 Imagine two people have accounts that are instances of the ```SavingsAccount``` class. They share behavior (how they deposit and withdraw) but have individual state (their balances), and even with the same balance amount these accounts are separate entities.
 
-Example code can be found in the [Introduction to classes](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Introduction%20to%20Classes) folder.
+Example code can be found in the [Introduction to classes](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Introduction-to-Classes) folder.
 
 ## Classes
 
@@ -81,7 +81,7 @@ This example defines a ```class``` named ```Car```. ```public``` is an *access l
 
 This class has a ```main()``` method, which lists the tasks performed by the program. ```main()``` runs when we execute the compiled **Car.class** file.
 
-Example code can be found in the [Classes-Syntax](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Classes-Syntax) folder
+Example code can be found in the [Classes-Syntax](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Syntax) folder
 
 ### Constructors
 
@@ -138,11 +138,11 @@ This is the first time we’ve called a method that we’ve also defined. ```mai
 
 Introducing a second method is a big step in your programming journey, congratulations!
 
-Example code can be found in the [Classes-Constructors](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Classes-Constructors) folder.
+Example code can be found in the [Classes-Constructors](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Constructors) folder.
 
 ### Instance Fields
 
-The [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.%20Classes%20and%20Objects/Classes-Constructors/Store.java) program ends with printing an instance of ```Store```, which looks something like ```Store@6bc7c054```. The first part, ```Store```, refers to the class, and the second part ```@6bc7c054``` refers to the instance’s location in the computer’s memory.
+The [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Constructors/src/main/java/com/examples/classes2/Store.java) program ends with printing an instance of ```Store```, which looks something like ```Store@6bc7c054```. The first part, ```Store```, refers to the class, and the second part ```@6bc7c054``` refers to the instance’s location in the computer’s memory.
 
 We don’t care about memory location, but our instances have no other characteristics!
 
@@ -175,7 +175,7 @@ The declaration is **within** the class and the instance variable will be availa
 
 Fields are a type of state each instance will possess. One instance may have ```"red"``` as its ```color```, another ```"blue"```, etc.
 
-Example code can be found in the [Classes-Instance Fields](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Classes-Instance%20Fields) folder.
+Example code can be found in the [Classes-Instance Fields](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Instance-Fields) folder.
 
 ### Constructor Parameters
 
@@ -219,7 +219,7 @@ Within the constructor, we assign the parameter value to the instance field.
 
 Instance fields are available for assignment inside the constructor because we declared them within the class.
 
-Example code can be found in the [Classes-Constructor Parameters](https://github.com/upliftdev/tree/main/Foundations/Foundations/3.%20Classes%20and%20Objects/Classes-Constructor%20Parameters) folder.
+Example code can be found in the [Classes-Constructor Parameters](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Constructor-Parameters) folder.
 
 ### Assigning Values to Instance Fields
 
@@ -265,7 +265,7 @@ ferrari.color;
 // "red"
 ```
 
-Example code can be found in the [Classes-Assigning values to instance fields](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Classes-Assigning%20values%20to%20instance%20fields) file.
+Example code can be found in the [Classes-Assigning values to instance fields](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Assigning-values-to-instance-fields) file.
 
 ### Multiple Fields
 
@@ -315,7 +315,7 @@ Car honda = new Car("green", false, 0);
 Car junker = new Car(true, 42, "brown");
 ```
 
-Example code can be found in the [Classes-Multiple Fields](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Classes-Multiple%20Fields) folder.
+Example code can be found in the [Classes-Multiple Fields](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Multiple-Fields) folder.
 
 ### Review
 
@@ -353,7 +353,7 @@ public class Dog {
 }
 ```
 
-Example code can be found in the [Classes-Review](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Classes-Review) folder.
+Example code can be found in the [Classes-Review](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Review) folder.
 
 ## Methods
 
@@ -376,11 +376,11 @@ It should be able to perform:
 
 You have defined and called constructor methods, which create an instance of a class. You have also defined main methods, which are the tasks that execute when the program is run. These are specific examples of methods. We can also define our own that will take input, do something with it, and return the kind of output we want.
 
-![alt text](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.%20Classes%20and%20Objects/methods-conceptual.gif)
+![alt text](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/methods-conceptual.gif)
 
 What if it took 20 lines of code to make a sandwich? Our program would become very long very quickly if we were making multiple sandwiches. Methods are powerful because they allow us to create blocks of code that are repeatable and modular.
 
-Example code can be found in the [Introduction to Methods](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Introduction%20to%20Methods) folder
+Example code can be found in the [Introduction to Methods](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Introduction-to-Methods) folder
 
 ### Defining Methods
 
@@ -417,7 +417,7 @@ The two print statements are inside the *body* of the method, which is defined b
 
 Anything we can do in our ```main()``` method, we can do in other methods! All of the Java tools you know, like the math and comparison operators, can be used to make interesting and useful methods.
 
-Example code can be found in the [Methods-Defining Methods](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Methods-Defining%20Methods) folder.
+Example code can be found in the [Methods-Defining Methods](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Defining-Methods) folder.
 
 ### Calling Methods
 
@@ -448,7 +448,7 @@ class Car {
 
 In the example above, we call the ```startEngine()``` method on the ```myFastCar``` object. This method call occurs inside the ```main()``` method. Running the program results in printing ```Vroom!``` to the output terminal.
 
-Example code can be found in the [Methods-Calling Methods](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Methods-Calling%20Methods) folder.
+Example code can be found in the [Methods-Calling Methods](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Calling-Methods) folder.
 
 ### Scope
 
@@ -486,7 +486,7 @@ The variable ```message```, which is declared and initialized inside of ```drive
 
 However, ```milesDriven```, which is declared at the top of the class, can be used inside all methods in the class, since it is in the scope of the whole class.
 
-Example code can be found in the [Methods-Scope](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Methods-Scope) folder.
+Example code can be found in the [Methods-Scope](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Scope) folder.
 
 ### Adding Parameters
 
@@ -523,7 +523,7 @@ A call to the ```startRadio()``` method on ```myCar``` results in printing:
 	> Turning on the radio to Meditation Station!
 	> Enjoy!
 
-Example code can be found in the [Methods-Adding Parameters](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Methods-Adding%20Parameters) folder.
+Example code can be found in the [Methods-Adding Parameters](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Adding-Parameters) folder.
 
 ### Reassigning Instance Fields
 
@@ -576,7 +576,7 @@ This code first prints ```2000```, the initial value of ```myAccount.balance```,
 
 Changing instance fields is how we change the state of an object and make our objects more flexible and realistic.
 
-Example code can be found in the [Methods-Reassigning Instance Fields](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Methods-Reassigning%20Instance%20Fields) folder.
+Example code can be found in the [Methods-Reassigning Instance Fields](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Reassigning-Instance-Fields) folder.
 
 ### Returns 
 
@@ -608,7 +608,7 @@ public static void main(String[] args){
 
 Within ```main()```, we called the ```numberOfTires()``` method on ```myCar```. Since the method returns an ```int``` value of 4, we store the value 4 in an integer variable called ```numTires```. If we printed ```numTires```, we would see ```4```.
 
-Example code can be found in the [Methods-Returns](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Methods-Returns) folder.
+Example code can be found in the [Methods-Returns](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Returns) folder.
 
 ### The toString Method
 
@@ -646,7 +646,7 @@ class Car {
 
 When this runs, the command ```System.out.println(myCar)``` will print ```This is a red car!```, which tells us about the Object ```myCar```.
 
-Example code can be found in the [Methods-toString](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Methods-toString) folder.
+Example code can be found in the [Methods-toString](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-toString) folder.
 
 ### Review
 
@@ -661,4 +661,4 @@ Methods are a powerful way to abstract tasks away and make them repeatable. They
 
 As you move through more Java material, it will be helpful to frame the tasks you create in terms of methods. This will help you think about what inputs you might need and what output you expect.
 
-Example code can be found in the [Methods-Review](https://github.com/upliftdev/tree/main/Foundations/3.%20Classes%20and%20Objects/Methods-Review) folder
+Example code can be found in the [Methods-Review](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Review) folder
