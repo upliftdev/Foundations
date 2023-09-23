@@ -45,4 +45,4 @@ public class Store {
 	3. The code inside ```Store()``` runs
 	4. When ```Store()``` finishes execution, we **return** to ```main()```
 
-Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Constructors/src/main/java/com/examples/classes2/Store.java) file.
+Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Classes-Constructors/src/main/java/com/examples/classes2/Store.java) file.

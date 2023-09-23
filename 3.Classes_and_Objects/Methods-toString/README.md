@@ -56,6 +56,6 @@ Where ```productType``` and ```price``` are the values in those instance fields.
 This store sells hats at a price of 8.
 ```
 
-Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/src/main/java/com/examples/classes13/Methods-toString/Store.java) file.
+Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Methods-toString/src/main/java/com/examples/classes13/Methods-toString/Store.java) file.
 
 
