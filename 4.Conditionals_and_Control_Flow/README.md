@@ -95,7 +95,7 @@ if (true) System.out.println("Brevity is the soul of wit");
 
 **Note**: Conditional statements do not end in a semicolon.
 
-Example code can be found in the [if-then](https://github.com/keldavis/Java-Practice/tree/master/Foundations/4.%20Conditionals%20and%20Control%20Flow/if-then) folder.
+Example code can be found in the [if-then](https://github.com/upliftdev/Foundations/blob/main/4.Conditionals_and_Control_Flow/if-then) folder.
 
 ### If Then Else
 
@@ -126,7 +126,9 @@ This code is also called an *if-then-else* statement:
 - If *condition* is true, then do something.
 - Else, do a different thing.
 
-Example code can be found in the [if-then-else](https://github.com/keldavis/Java-Practice/tree/master/Foundations/4.%20Conditionals%20and%20Control%20Flow/if-then-else) folder.
+Example code can be found in the [if-then-else](https://github.com/upliftdev/Foundations/blob/main/4.Conditionals_and_Control_Flow/if-then-else) folder.
+
+
 
 ### If Then Else If
 
@@ -191,7 +193,7 @@ This chained conditional statement has two conditions that evaluate ```true```. 
 
 **Note**: Only one of the code blocks will run.
 
-Example code can be found in the [if-then-else-if](https://github.com/keldavis/Java-Practice/tree/master/Foundations/4.%20Conditionals%20and%20Control%20Flow/if-then-else-if) folder.
+Example code can be found in the [if-then-else-if](https://github.com/upliftdev/Foundations/blob/main/4.Conditionals_and_Control_Flow/if-then-else-if) folder.
 
 ### Switch Statement
 
@@ -249,7 +251,7 @@ switch (course) {
 // enrolls student in Biology... AND History and Theatre!
 ```
 
-Example code can be found in the [switch statement](https://github.com/keldavis/Java-Practice/tree/master/Foundations/4.%20Conditionals%20and%20Control%20Flow/switch%20statement) folder.
+Example code can be found in the [switch statement](https://github.com/upliftdev/Foundations/blob/main/4.Conditionals_and_Control_Flow/switch_statement) folder.
 
 ### Conditional AND
 
@@ -329,7 +331,7 @@ false || false
 // false
 ```
 
-Example code can be found in the [Conditional OR](https://github.com/keldavis/Java-Practice/tree/master/Foundations/4.%20Conditionals%20and%20Control%20Flow/Conditional%20OR) folder.
+Example code can be found in the [Conditional OR](https://github.com/upliftdev/Foundations/blob/main/4.Conditionals_and_Control_Flow/Conditional_OR) folder.
 
 ### Logical NOT
 
@@ -368,4 +370,4 @@ if (!hasPrerequisite) {
 
 We can write a succinct conditional statement without an empty code block.
 
-Example code can be found in the [Logical NOT](https://github.com/keldavis/Java-Practice/tree/master/Foundations/4.%20Conditionals%20and%20Control%20Flow/Logical%20NOT) folder.
+Example code can be found in the [Logical NOT](https://github.com/upliftdev/Foundations/blob/main/4.Conditionals_and_Control_Flow/Logical_NOT) folder.
