@@ -26,4 +26,4 @@ public class Store {
 
 3. Inside of the constructor method, set the instance variable ```productType``` equal to the ```product``` parameter.
 
-Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Classes-Constructor-Parameters/src/main/java/com/examples/classes2/Store.java) file.
+Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Classes-Constructor-Parameters/src/main/java/com/examples/classes1/Store.java) file.

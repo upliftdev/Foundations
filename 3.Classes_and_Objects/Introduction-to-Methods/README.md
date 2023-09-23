@@ -1,6 +1,6 @@
 # Introduction to Methods
 
-We have made a [SavingsAccount](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Introduction-to-Methods/src/main/java/com/examples/classes/SavingsAccount.java) class without using any methods beyond ```main()``` and the constructor, ```SavingsAccount()```.
+We have made a [SavingsAccount](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Introduction-to-Methods/src/main/java/com/examples/classes/SavingsAccount.java) class without using any methods beyond ```main()``` and the constructor, ```SavingsAccount()```.
 
 Run the code to see some account behavior happen.
 

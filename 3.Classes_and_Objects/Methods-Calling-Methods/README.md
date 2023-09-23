@@ -30,4 +30,4 @@ public class Store {
 
 3. Now, call the ```advertise()``` method on the ```lemonadeStand``` object two more times. It should be called in the ```main()``` method three times total.
 
-Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Calling-Methods/src/main/java/com/examples/classes8/Store.java) file.
+Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Methods-Calling-Methods/src/main/java/com/examples/classes8/Store.java) file.

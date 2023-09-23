@@ -37,4 +37,4 @@ public class Store {
 
 4. In the ```main()``` method, increase the price at the lemonade stand by ```1.5```. Then, print the ```lemonadeStand.price``` to see how it has changed!
 
-Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Reassigning-Instance-Fields/src/main/java/com/examples/classes10/Store.java) file.
+Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Methods-Reassigning-Instance-Fields/src/main/java/com/examples/classes10/Store.java) file.

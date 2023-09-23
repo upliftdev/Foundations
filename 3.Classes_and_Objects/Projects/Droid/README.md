@@ -74,4 +74,4 @@ We’ll need to define the state and behavior of the droids using instance field
 
 	- Create a method ```energyTransfer()``` that exchanges ```batteryLevel``` between instances.
 
-Example code can be found in the [Droid.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Projects/Droid/src/main/java/com/examples/classes/Droid.java) file. 
+Example code can be found in the [Droid.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Projects/Droid/src/main/java/com/examples/classes/Droid.java) file. 

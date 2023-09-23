@@ -33,4 +33,4 @@ public class Store {
 
 	However, we’re not going to see these Strings printed out yet!
 
-Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Defining-Methods/src/main/java/com/examples/classes9/Store.java) file.
+Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Methods-Defining-Methods/src/main/java/com/examples/classes9/Store.java) file.

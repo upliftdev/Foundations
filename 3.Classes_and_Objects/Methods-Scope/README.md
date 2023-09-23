@@ -1,6 +1,6 @@
 ## Methods: Scope
 
-1. Open the [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Scope/src/main/java/com/examples/classes12/Store.java) file
+1. Open the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Methods-Scope/src/main/java/com/examples/classes12/Store.java) file
 
 2. Inside of the ```advertise()``` method, change the ```productType``` variable to the ```cookie``` variable, which is declared in the ```main()``` method. This should also result in the printout:
 	> Selling cookies!

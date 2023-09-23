@@ -76,4 +76,4 @@ public class SavingsAccount {
 
 	If you want, you can add more functionality to this! What other instance fields might you want to keep track of? What might a ```toString()``` look like for this class?
 
-Example code can be found in the [SavingsAccount.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Review/src/main/java/com/examples/classes1/SavingsAccount.java) file.
+Example code can be found in the [SavingsAccount.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Methods-Review/src/main/java/com/examples/classes1/SavingsAccount.java) file.

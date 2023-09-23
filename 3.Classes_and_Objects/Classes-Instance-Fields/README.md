@@ -29,4 +29,4 @@ public class Store {
 
 	Declare a ```String``` instance field for ```productType```.
 
-Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Instance-Fields/src/main/java/com/examples/classes3/Store.java) file.
+Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Classes-Instance-Fields/src/main/java/com/examples/classes3/Store.java) file.

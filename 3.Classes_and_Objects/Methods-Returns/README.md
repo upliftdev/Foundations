@@ -40,4 +40,4 @@ public class Store {
 
   Then, return ```totalPrice```.
 
-4. Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Returns/src/main/java/com/examples/classes11/Store.java) file.
+4. Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Methods-Returns/src/main/java/com/examples/classes11/Store.java) file.

@@ -8,4 +8,4 @@
 
 	Define one within ```Store```.
 
-Example code can be found in the [Store.Java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Syntax/src/main/java/com/examples/classes5/Store.java) file.
+Example code can be found in the [Store.Java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Classes-Syntax/src/main/java/com/examples/classes5/Store.java) file.

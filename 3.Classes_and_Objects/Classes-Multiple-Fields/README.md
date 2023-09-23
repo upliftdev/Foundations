@@ -41,4 +41,4 @@ public class Store {
 
 	```cookieShop``` has ```12``` cookies to sell and each cookie costs ```3.75```.
 
-Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Classes-Multiple-Fields/src/main/java/com/examples/classes4/Store.java) file.
+Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Classes-Multiple-Fields/src/main/java/com/examples/classes4/Store.java) file.

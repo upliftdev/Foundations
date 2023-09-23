@@ -49,4 +49,4 @@ The instructions provided are general guidelines.
 
 19. Add comments near the top of the program that describe what the program does.
 
-Example code can be found in the [Calculator.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Projects/Calculator/src/main/java/com/examples/classes/Calculator.java) file.
+Example code can be found in the [Calculator.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Projects/Calculator/src/main/java/com/examples/classes/Calculator.java) file.

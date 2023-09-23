@@ -37,4 +37,4 @@ public class Store {
 
 5. Inside the ```main()``` method, call the ```greetCustomer()``` method on the ```lemonadeStand``` object. Pass in a ```String``` argument of your choice!
 
-Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/3.Classes_and_Objects/Methods-Adding-Parameters/src/main/java/com/examples/classes7/Store.java) file.
+Example code can be found in the [Store.java](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/Methods-Adding-Parameters/src/main/java/com/examples/classes7/Store.java) file.
