@@ -33,7 +33,7 @@ Here’s an example of a syntax error message:
 
 Usually the error is on the exact line indicated by the compiler, or the line just before it; however, if the problem is incorrectly nested braces, the actual error may be at the beginning of the nested block.
 
-Example code can be found in the [Syntax Errors](https://github.com/upliftdev/Foundations/blob/main/Foundations/10.Debugging/Syntax_Errors) folder
+Example code can be found in the [Syntax Errors](https://github.com/upliftdev/Foundations/tree/main/10.Debugging/Syntax_Errors) folder
 
 ## Run Time Errors
 
@@ -52,7 +52,7 @@ Here’s an example of a run-time error message:
 
 <img src="https://github.com/keldavis/Java-Practice/blob/master/Foundations/10.%20Debugging/java-run-time-error.png" alt="Run-Time-Error" width="500"/>
 
-Example code can be found in the [Run-time Errors](https://github.com/upliftdev/Foundations/blob/main/Foundations/10.Debugging/Run-time-Errors) folder
+Example code can be found in the [Run-time Errors](https://github.com/upliftdev/Foundations/tree/main/10.Debugging/Run-time-Errors) folder
 
 ## Exceptions
 
@@ -125,7 +125,7 @@ try {
 
 You can learn more about exceptions and handling them [here](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html).
 
-Example code can be found in the [Exceptions](https://github.com/upliftdev/Foundations/blob/main/Foundations/10.Debugging/Exceptions) folder
+Example code can be found in the [Exceptions](https://github.com/upliftdev/Foundations/tree/main/10.Debugging/Exceptions) folder
 
 ## Logic Errors
 

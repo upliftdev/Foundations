@@ -27,7 +27,7 @@ Remember how we had to import ```java.util.Arrays``` in order to use additional 
 import java.util.ArrayList;
 ```
 
-Example code can be found in the [Intro to ArrayLists](https://github.com/upliftdev/Foundations/tree/main/Foundations/6.ArrayLists/Intro_to_ArrayLists) folder
+Example code can be found in the [Intro to ArrayLists](https://github.com/upliftdev/Foundations/tree/main/6.ArrayLists/Intro_to_ArrayLists) folder
 
 ## Creating ArrayLists
 
@@ -61,7 +61,7 @@ ages = new ArrayList<Integer>();
 ArrayList<String> babyNames = new ArrayList<String>();
 ```
 
-Example code can be found in the [Creating ArrayLists](https://github.com/upliftdev/Foundations/tree/main/Foundations/5.Arrays%20and%20ArrayLists/Creating_ArrayLists) folder.
+Example code can be found in the [Creating ArrayLists](https://github.com/upliftdev/Foundations/tree/main/5.Arrays%20and%20ArrayLists/Creating_ArrayLists) folder.
 
 ## Adding an Item
 
@@ -80,7 +80,7 @@ sudokuRow1.add(3);
 // sudokuRow1 now holds [4, 8, 3]
 ```
 
-Example code can be found in the [Adding an Item](https://github.com/upliftdev/Foundations/tree/main/Foundations/6.ArrayLists/Adding_an_Item) folder.
+Example code can be found in the [Adding an Item](https://github.com/upliftdev/Foundations/tree/main/6.ArrayLists/Adding_an_Item) folder.
 
 ## ArrayList Size
 
@@ -104,7 +104,7 @@ System.out.println(shoppingCart.size());
 
 In dynamic objects like ```ArrayList```s, it’s important to know how to access the amount of objects we have stored.
 
-Example code can be found in the [ArrayList Size](https://github.com/upliftdev/Foundations/tree/main/Foundations/6.ArrayLists/ArrayList_Size) folder
+Example code can be found in the [ArrayList Size](https://github.com/upliftdev/Foundations/tree/main/6.ArrayLists/ArrayList_Size) folder
 
 ## Accessing an Index
 
@@ -132,7 +132,7 @@ System.out.println(shoppingCart.get(2));
 
 This code prints ```"Magnifying Glass"```, which is the value at index 2 of the ```ArrayList```.
 
-Example code can be found in the [Accessing an Index](https://github.com/upliftdev/Foundations/tree/main/Foundations/6.ArrayLists/Accessing_an_Index) folder.
+Example code can be found in the [Accessing an Index](https://github.com/upliftdev/Foundations/tree/main/6.ArrayLists/Accessing_an_Index) folder.
 
 ## Changing a Value
 
@@ -160,7 +160,7 @@ shoppingCart.set(0, "Tweed Cape");
 // shoppingCart now holds ["Tweed Cape", "Tweed Houndstooth Hat", "Magnifying Glass"]
 ```
 
-Example code can be found in the [Changing a Value](https://github.com/upliftdev/Foundations/tree/main/Foundations/6.ArrayLists/Changing_a_Value) folder.
+Example code can be found in the [Changing a Value](https://github.com/upliftdev/Foundations/tree/main/6.ArrayLists/Changing_a_Value) folder.
 
 ## Removing an Item
 
@@ -190,7 +190,7 @@ shoppingCart.remove("Trench Coat");
 ```
 Note: This command removes the FIRST instance of the value ```"Trench Coat"```.
 
-Example code can be found in the [Removing an Item](https://github.com/upliftdev/Foundations/tree/main/Foundations/6.ArrayLists/Removing_an_Item) folder
+Example code can be found in the [Removing an Item](https://github.com/upliftdev/Foundations/tree/main/6.ArrayLists/Removing_an_Item) folder
 
 ## Getting an Item's Index
 
@@ -203,7 +203,7 @@ System.out.println(detectives.indexOf("Fletcher"));
 
 This code would print ```4```, since ```"Fletcher"``` is at index ```4``` of the ```detectives``` ```ArrayList```.
 
-Example code can be found in the [Getting an Item's Index](https://github.com/upliftdev/Foundations/tree/main/Foundations/6.ArrayLists/Getting_an_Item_Index) folder
+Example code can be found in the [Getting an Item's Index](https://github.com/upliftdev/Foundations/tree/main/6.ArrayLists/Getting_an_Item_Index) folder
 
 ## Review
 
@@ -225,4 +225,4 @@ Also, this is a chance to put your hard-earned Java skills to the test. Your mis
 
 Build **Playlist.java** with the best possible playlist of music using a Java ```ArrayList```. Choose wisely.
 
-Project details can be found in the [Desert Island Playlist Project](https://github.com/upliftdev/Foundations/tree/main/Foundations/6.ArrayLists/Desert_Island_Playlist_Project) folder
+Project details can be found in the [Desert Island Playlist Project](https://github.com/upliftdev/Foundations/tree/main/6.ArrayLists/Desert_Island_Playlist_Project) folder

@@ -73,7 +73,7 @@ while (hedgehogs < 6) {
 
 In the example above, ```hedgehogs``` remains equal to ```5```, which is less than ```6```. So we would get an infinite loop.
 
-Example code can be found in the [While Loop](https://github.com/upliftdev/Foundations/tree/main/Foundations/7.Loops/While_Loop) folder
+Example code can be found in the [While Loop](https://github.com/upliftdev/Foundations/tree/main/7.Loops/While_Loop) folder
 
 ## Incrementing
 
@@ -116,7 +116,7 @@ while (pushupsToDo > 0) {
 
 In the code above, the counter, ```pushupsToDo```, starts at 10, and increments down one at a time. When it hits 0, the loop exits.
 
-Example code can be found in the [Incrementing](https://github.com/upliftdev/Foundations/tree/main/Foundations/7.Loops/Incrementing) folder
+Example code can be found in the [Incrementing](https://github.com/upliftdev/Foundations/tree/main/7.Loops/Incrementing) folder
 
 ## For Loop
 
@@ -150,7 +150,7 @@ You’ll also hear the term “iteration” in reference to loops. When you *ite
 
 Fortunately, equipped with your new understanding of ```for``` loops, you can help prevent infinite loops in your own code.
 
-Example code can be found in the [For Loop](https://github.com/upliftdev/Foundations/tree/main/Foundations/7.Loops/For_Loop) folder
+Example code can be found in the [For Loop](https://github.com/upliftdev/Foundations/tree/main/7.Loops/For_Loop) folder
 
 ## Iterating Over Arrays and ArrayLists
 
@@ -183,7 +183,7 @@ for (int i = 0; i < secretCode.size(); i++) {
 }
 ```
 
-Example code can be found in the [Iterating Over Arrays and ArrayLists](https://github.com/upliftdev/Foundations/tree/main/Foundations/7.Loops/Iterating_Over_Arrays_and_ArrayLists) folder
+Example code can be found in the [Iterating Over Arrays and ArrayLists](https://github.com/upliftdev/Foundations/tree/main/7.Loops/Iterating_Over_Arrays_and_ArrayLists) folder
 
 ## For Each Loop
 
@@ -203,7 +203,7 @@ We can read the ```:``` as “in” like this: for each ```inventoryItem``` (whi
 
 Note that we can name the individual item whatever we want; using the singular of a plural is just a convention. You may also encounter conventions like ```String word : sentence```.
 
-Example code can be found in the [For Each Loop](https://github.com/upliftdev/Foundations/tree/main/Foundations/7.Loops/For_Each_Loop) folder
+Example code can be found in the [For Each Loop](https://github.com/upliftdev/Foundations/tree/main/7.Loops/For_Each_Loop) folder
 
 ## Review
 
@@ -286,7 +286,7 @@ Fizz
 Buzz
 ```
 
-Project details can be found in the [Fizz Buzz Project](https://github.com/upliftdev/Foundations/tree/main/Foundations/7.Loops/Fizz_Buzz_Project) folder
+Project details can be found in the [Fizz Buzz Project](https://github.com/upliftdev/Foundations/tree/main/7.Loops/Fizz_Buzz_Project) folder
 
 ## The Prime Directive Project
 
@@ -300,4 +300,4 @@ For example, 2, 3, 5, and 7 are all prime numbers, but 4, 6, 8, and 9 are not.
 
 Your prime directive: Build a **PrimeDirective.java** program that creates an ```ArrayList``` of all prime numbers in an array.
 
-Project details can be found in the [The Prime Directive Project](https://github.com/upliftdev/Foundations/tree/main/Foundations/7.Loops/The_Prime_Directive_Project) folder
+Project details can be found in the [The Prime Directive Project](https://github.com/upliftdev/Foundations/tree/main/7.Loops/The_Prime_Directive_Project) folder
