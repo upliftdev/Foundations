@@ -24,3 +24,6 @@ than 60 hours in a week.
 | Employee 2 | $8.20              | 47|
 | Employee 3 | $10.00             |73|
 
+
+## How to submit the excercises
+This is to be updated
