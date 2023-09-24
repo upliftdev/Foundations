@@ -359,7 +359,7 @@ Example code can be found in the [Classes-Review](https://github.com/upliftdev/F
 
 In the last lesson, we created an instance of the ```Store``` class in the main method. We learned that objects have state and behavior:
 
-![alt text](https://github.com/upliftdev/Foundations/blob/main/3.%20Classes%20and%20Objects/diagram%2Bof%2Ban%2Bobject-02.png)
+![alt text](https://github.com/upliftdev/Foundations/blob/main/3.Classes_and_Objects/diagram%2Bof%2Ban%2Bobject-02.png)
 
 We have seen how to give objects state through instance fields. Now, we’re going to learn about behavior. Remember our example of a Savings Account.
 

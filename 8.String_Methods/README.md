@@ -35,7 +35,7 @@ System.out.println(str.length());
 
 In theory, the length of a ```String``` is the same as the [Unicode](https://en.wikipedia.org/wiki/Unicode) units of the ```String```. For example, escape sequences such as ```\n``` count as only one character.
 
-Example code can be found in the [length](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/length) folder
+Example code can be found in the [length](https://github.com/upliftdev/Foundations/tree/main/Foundations/8.String_Methods/length) folder
 
 ## concat
 
@@ -69,7 +69,7 @@ System.out.println(name);
 
 Code would be printed instead.
 
-Example code can be found in the [concat](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/concat) folder
+Example code can be found in the [concat](https://github.com/upliftdev/Foundations/tree/main/Foundations/8.String_Methods/concat) folder
 
 ## equals
 
@@ -90,7 +90,7 @@ System.out.println(flavor2.equals("Mango"));
 
 Side note, there’s also a ```equalsIgnoreCase()``` method that compares two strings without considering upper/lower cases.
 
-Example code can be found in the [equals](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/equals) folder
+Example code can be found in the [equals](https://github.com/upliftdev/Foundations/tree/main/Foundations/8.String_Methods/equals) folder
 
 ## indexOf
 
@@ -120,7 +120,7 @@ This would output ```4```, because ```EFG``` starts at index 4.
 
 If the ```indexOf()``` doesn’t find what it’s looking for, it’ll return a ```-1```.
 
-Example code can be found in the [indexOf](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/indexOf) folder
+Example code can be found in the [indexOf](https://github.com/upliftdev/Foundations/tree/main/Foundations/8.String_Methods/indexOf) folder
 
 ## charAt
 
@@ -138,7 +138,7 @@ It would output ```e``` because that’s what’s at index 2. (Once again, indic
 
 Suppose we try return the character located at index 4, it would produce an error because index 4 is out of ```str```‘s range.
 
-Example code can be found in the [charAt](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/charAt) folder
+Example code can be found in the [charAt](https://github.com/upliftdev/Foundations/tree/main/Foundations/8.String_Methods/charAt) folder
 
 ## substring
 
@@ -164,7 +164,7 @@ System.out.println(line.substring(23, 38));
 
 It would output ```Constellations``` because that’s the substring that begins at index 23 and ends at index 38.
 
-Example code can be found in the [substring](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/substring) folder
+Example code can be found in the [substring](https://github.com/upliftdev/Foundations/tree/main/Foundations/8.String_Methods/substring) folder
 
 ## toUpperCase and toLowerCase
 
@@ -187,7 +187,7 @@ String lower = input.toLowerCase();
 
 A good use of this functionality is to ensure consistency of the data you store in a database. Making sure all of the data you get from a user is lowercase before you store it in your database will make your database easier to search through later.
 
-Example code can be found in the [toUpperCase and toLowerCase](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/toUpperCase_and_toLowerCase) folder
+Example code can be found in the [toUpperCase and toLowerCase](https://github.com/upliftdev/Foundations/tree/main/Foundations/8.String_Methods/toUpperCase_and_toLowerCase) folder
 
 ## DNA Sequencing Project
 
@@ -217,4 +217,4 @@ So for example:
 - ```ATGCGATACTGA``` is a protein because it has the start codon ```ATG```, the stop codon ```TGA```, and the length is divisible by 3.
 - ```ATGCGATAGA``` is not a protein because the sequence length is not divisible by 3, so the third condition is not satisfied.
 
-Project details can be found in the [DNA Sequencing Project](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/DNA_Sequencing_Project) folder
+Project details can be found in the [DNA Sequencing Project](https://github.com/upliftdev/Foundations/tree/main/Foundations/8.String_Methods/DNA_Sequencing_Project) folder

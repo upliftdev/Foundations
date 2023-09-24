@@ -47,7 +47,7 @@ Until now, we’ve only been working with one class and one file. However, most 
 
 Note: the various classes in our Java package — even though they are in different files — will have access to each other, so we can instantiate one class inside of another.
 
-Example code can be found in the [Intro to Inheritance](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Intro_to_Inheritance) folder
+Example code can be found in the [Intro to Inheritance](https://github.com/upliftdev/Foundations/tree/main/Foundations/9.Inheritance_and_Polymorphism/Intro_to_Inheritance) folder
 
 ## Inheriting the Constructor
 
@@ -91,7 +91,7 @@ class Triangle extends Shape {
 
 In the above example, ```numSides``` is just set to ```3``` without leveraging the parent class constructor.
 
-Example code can be found in the [Inheriting the Constructor](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Inheriting_the_Constructor) folder
+Example code can be found in the [Inheriting the Constructor](https://github.com/upliftdev/Foundations/tree/main/Foundations/9.Inheritance_and_Polymorphism/Inheriting_the_Constructor) folder
 
 ## Parent Class Aspect Modifiers
 
@@ -115,7 +115,7 @@ class Shape {
 
 In addition to access modifiers, there’s another way to establish how child classes can interact with inherited parent class members: using the ```final``` keyword. If we add ```final``` before a parent class method’s access modifier, we disallow any child classes from changing that method. This is helpful in limiting bugs that might occur from modifying a particular method.
 
-Example code can be found in the [Parent Class Aspect Modifiers](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Parent_Class_Aspect_Modifiers) folder
+Example code can be found in the [Parent Class Aspect Modifiers](https://github.com/upliftdev/Foundations/tree/main/Foundations/9.Inheritance_and_Polymorphism/Parent_Class_Aspect_Modifiers) folder
 
 ## Introducing Polymorphism
 
@@ -185,7 +185,7 @@ Notice that in order to properly override ```printBalance()```, in ```CheckingAc
 
 You may have also noticed the ```@Override``` keyword above ```printBalance()``` in ```CheckingAccount```. This annotation informs the compiler that we want to override a method in the parent class. If the method doesn’t exist in the parent class, we’ll get a helpful error when we compile the program.
 
-Example code can be found in the [Method Overriding](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Method_Overriding) folder
+Example code can be found in the [Method Overriding](https://github.com/upliftdev/Foundations/tree/main/Foundations/9.Inheritance_and_Polymorphism/Method_Overriding) folder
 
 ## Using a Child Class as its Parent Class
 
@@ -205,7 +205,7 @@ This is because at runtime, ```kaylasAccount``` is recognized as the ```Checking
 
 Well, no. The compiler believes that ```kaylasAccount``` is just a ```BankAccount``` that doesn’t have some fancy child class ```transferToSavings()``` method, so it would throw an error.
 
-Example code can be found in the [Using a Child Class as its Parent Class](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Using_a_Child_Class_as_its_Parent_Class) folder
+Example code can be found in the [Using a Child Class as its Parent Class](https://github.com/upliftdev/Foundations/tree/main/Foundations/9.Inheritance_and_Polymorphism/Using_a_Child_Class_as_its_Parent_Class) folder
 
 ## Child Classes in Arrays and ArrayLists
 
@@ -235,7 +235,7 @@ for (Monster monster : monsters) {
 
 In the code above, we were able to call ```attack()``` on each monster in ```monsters``` despite the fact that, in the for-each loop, ```monster``` is declared as the parent class type ```Monster```.
 
-Example code can be found in the [Child Classes in Arrays and ArrayLists](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Child _Classes_in_Arrays_and_ArrayLists) folder
+Example code can be found in the [Child Classes in Arrays and ArrayLists](https://github.com/upliftdev/Foundations/tree/main/Foundations/9.Inheritance_and_Polymorphism/Child _Classes_in_Arrays_and_ArrayLists) folder
 
 ## Review of Inheritance and Polymorphism
 
@@ -276,4 +276,4 @@ Your **Language Inheritance** package has three Java files:
 
 Build out a Java package with these classes to model real-world language families.
 
-Project details can be found in the [Language Families Project](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Language_Families_Project) folder
+Project details can be found in the [Language Families Project](https://github.com/upliftdev/Foundations/tree/main/Foundations/9.Inheritance_and_Polymorphism/Language_Families_Project) folder
