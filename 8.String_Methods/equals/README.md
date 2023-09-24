@@ -22,4 +22,4 @@ public class Password {
 	Use ```equals()``` to print out whether it’s the same as another string.
 
 
-Example solution can be found in the [Password.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/equals/src/main/java/com/examples/str/Password.java) file
+Example solution can be found in the [Password.java](https://github.com/upliftdev/Foundations/blob/main/8.String_Methods/equals/src/main/java/com/examples/str/Password.java) file

@@ -34,4 +34,4 @@ public class Newsfeed {
 
 2. In the method ```getNumTopics()```, return the length of the ```topics``` array.
 
-Example solution can be found in the [Newsfeed.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/5.Arrays/Array_Length/src/main/java/com/examples/arrays/Newsfeed.java) file.
+Example solution can be found in the [Newsfeed.java](https://github.com/upliftdev/Foundations/blob/main/5.Arrays/Array_Length/src/main/java/com/examples/arrays/Newsfeed.java) file.

@@ -36,4 +36,4 @@ class LuckyFive {
 	
 3. Inside the ```while``` loop, above the line where you reset ```dieRoll```, print out ```dieRoll``` to the terminal.
 
-Example solution can be found in the [LuckyFive.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/7.Loops/While_Loop/src/main/java/com/examples/loops/LuckyFive.java) file
+Example solution can be found in the [LuckyFive.java](https://github.com/upliftdev/Foundations/blob/main/7.Loops/While_Loop/src/main/java/com/examples/loops/LuckyFive.java) file

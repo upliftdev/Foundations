@@ -21,4 +21,4 @@ public class Debug {
 
 	Create a ```catch``` block that catches the ```ArithmeticException``` and prints the error message to the terminal.
 
-Example solution can be found in the [Debug.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/10.Debugging/Exceptions/src/main/java/com/examples/debug/Debug.java) file
+Example solution can be found in the [Debug.java](https://github.com/upliftdev/Foundations/blob/main/10.Debugging/Exceptions/src/main/java/com/examples/debug/Debug.java) file

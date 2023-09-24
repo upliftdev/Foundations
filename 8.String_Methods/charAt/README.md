@@ -23,4 +23,4 @@ public class Initials {
 
 3. Print out the initials of the ```firstName``` and ```lastName```.
 
-Example solution can be found in the [Initials.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/charAt/src/main/java/com/examples/str/Initials.java) file
+Example solution can be found in the [Initials.java](https://github.com/upliftdev/Foundations/blob/main/8.String_Methods/charAt/src/main/java/com/examples/str/Initials.java) file

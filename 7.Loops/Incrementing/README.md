@@ -32,4 +32,4 @@ class Coffee {
 	When cupsOfCoffee is 100, this should be printed:
 	> Fry drinks cup of coffee #100
 
-Example solution can be found in the [Coffee.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/7.Loops/Incrementing/src/main/java/com/examples/loops/Coffee.java) file
+Example solution can be found in the [Coffee.java](https://github.com/upliftdev/Foundations/blob/main/7.Loops/Incrementing/src/main/java/com/examples/loops/Coffee.java) file

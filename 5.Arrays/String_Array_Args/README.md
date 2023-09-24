@@ -50,4 +50,4 @@ public class Newsfeed {
 
 	Now, run the **Newsfeed.java** file with the argument ```"Human"```.
 
-Example solution can be found in the [Newsfeed.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/5.Arrays/String_Array_Args/src/main/java/com/examples/arrays6/Newsfeed.java) file.
+Example solution can be found in the [Newsfeed.java](https://github.com/upliftdev/Foundations/blob/main/5.Arrays/String_Array_Args/src/main/java/com/examples/arrays6/Newsfeed.java) file.

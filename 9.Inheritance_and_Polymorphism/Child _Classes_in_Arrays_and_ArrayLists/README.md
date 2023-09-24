@@ -119,4 +119,4 @@ class Pho extends Noodle {
 	Call ```getCookPrep()``` on each noodle and print the result.
 
 
-Example solution can be found in the [Noodle.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Child _Classes_in_Arrays_and_ArrayLists/src/main/java/com/examples/ip1/Spaghetti.java) files
+Example solution can be found in the [Noodle.java](https://github.com/upliftdev/Foundations/blob/main/9.Inheritance_and_Polymorphism/Child _Classes_in_Arrays_and_ArrayLists/src/main/java/com/examples/ip1/Spaghetti.java) files

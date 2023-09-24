@@ -26,4 +26,4 @@ public class Debug {
 
 	Find the logic error.
 
-Example solution can be found in the [Debug.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/10.Debugging/Logic_Errors/src/main/java/com/examples/debug1/Debug.java) file
+Example solution can be found in the [Debug.java](https://github.com/upliftdev/Foundations/blob/main/10.Debugging/Logic_Errors/src/main/java/com/examples/debug1/Debug.java) file

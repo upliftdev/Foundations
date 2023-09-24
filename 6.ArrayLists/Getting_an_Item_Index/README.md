@@ -38,4 +38,4 @@ class ToDos {
 
 	Print this information out. That’s the number of to-dos remaining before Sherlock reaches ```"solve the case"```.
 
-Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/6.ArrayLists/Getting_an_Item_Index/src/main/java/com/examples/lists/ToDos.java) file
+Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/6.ArrayLists/Getting_an_Item_Index/src/main/java/com/examples/lists/ToDos.java) file

@@ -105,4 +105,4 @@ class PrimeDirective {
 
 	Don’t forget to run your code with: ```java PrimeDirective```
 
-Example solution can be found in the [PrimeDirective.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/7.Loops/The_Prime_Directive_Project/src/main/java/com/examples/loops/PrimeDirective.java) file
+Example solution can be found in the [PrimeDirective.java](https://github.com/upliftdev/Foundations/blob/main/7.Loops/The_Prime_Directive_Project/src/main/java/com/examples/loops/PrimeDirective.java) file

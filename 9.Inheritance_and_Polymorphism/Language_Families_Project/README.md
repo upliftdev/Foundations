@@ -95,4 +95,4 @@
 
 	There are many more language families you could create and there is a lot more you can do here. Check the hint for some ideas to make your Language Inheritance project even better.
 
-Example solution can be found in the [Language.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Language_Families_Project/src/main/java/com/examples/ip4/SinoTibetan.java) files
+Example solution can be found in the [Language.java](https://github.com/upliftdev/Foundations/blob/main/9.Inheritance_and_Polymorphism/Language_Families_Project/src/main/java/com/examples/ip4/SinoTibetan.java) files

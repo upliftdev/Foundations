@@ -21,4 +21,4 @@ public class TweetCounter {
 
 	Let’s check ```tweet``` follow’s Twitter’s policy. Print out the number of characters in ```tweet``` using the ```length()``` method.
 
-Example solution can be found in the [TweetCounter.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/length/src/main/java/com/examples/str/TweetCounter.java) file
+Example solution can be found in the [TweetCounter.java](https://github.com/upliftdev/Foundations/blob/main/8.String_Methods/length/src/main/java/com/examples/str/TweetCounter.java) file

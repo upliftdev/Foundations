@@ -44,4 +44,4 @@ public class Newsfeed {
 
 4. Uncomment the lines in the main method to see how the ```getTopics()``` method works on a ```Newsfeed``` instance.
 
-Example solution can be found in the [Newsfeed.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/5.Arrays/Creating_Arrays/src/main/java/com/examples/arrays1/Newsfeed.java) file
+Example solution can be found in the [Newsfeed.java](https://github.com/upliftdev/Foundations/blob/main/5.Arrays/Creating_Arrays/src/main/java/com/examples/arrays1/Newsfeed.java) file

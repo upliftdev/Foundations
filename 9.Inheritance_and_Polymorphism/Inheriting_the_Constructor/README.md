@@ -61,4 +61,4 @@ class Pho extends Noodle {
 	Now print out ```phoChay```‘s ```shape```.
 
 
-Example solution can be found in the [Noodle.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Inheriting_the_Constructor/src/main/java/com/examples/ip2/Pho.java) files
+Example solution can be found in the [Noodle.java](https://github.com/upliftdev/Foundations/blob/main/9.Inheritance_and_Polymorphism/Inheriting_the_Constructor/src/main/java/com/examples/ip2/Pho.java) files

@@ -33,4 +33,4 @@ public class Newsfeed {
 
 3. Now that you have the ```Arrays``` package, use its ```toString()``` method to print out the ```topics``` array in the ```main()``` method.
 
-Example solution can be found in the [Newsfeed.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/5.Arrays/Importing_Arrays/src/main/java/com/examples/arrays4/Newsfeed.java) file.
+Example solution can be found in the [Newsfeed.java](https://github.com/upliftdev/Foundations/blob/main/5.Arrays/Importing_Arrays/src/main/java/com/examples/arrays4/Newsfeed.java) file.

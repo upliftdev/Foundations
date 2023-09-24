@@ -200,7 +200,7 @@ The genome of an organism stores all the genetic information necessary to build 
 - ```G```: Guanine
 - ```T```: Thymine
 
-<img src="https://github.com/keldavis/Java-Practice/blob/master/Foundations/8.%20String%20Methods/dna.webp" alt="function" width="500"/>
+<img src="https://github.com/upliftdev/Foundations/blob/main/8.String_Methods/dna.webp" alt="function" width="500"/>
 
 So a strand of DNA could look something like ```ACGAATTCCG```.
 

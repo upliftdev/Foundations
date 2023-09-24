@@ -47,4 +47,4 @@ class ToDos {
 
 3. So who has more to do? Print the name of the detective whose to-do list is longer. Was it Sherlock or Poirot?
 
-Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/6.ArrayLists/ArrayList_Size/src/main/java/com/examples/lists/ToDos.java) file.
+Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/6.ArrayLists/ArrayList_Size/src/main/java/com/examples/lists/ToDos.java) file.

@@ -67,4 +67,4 @@ public class Ramen extends Noodle {
 
 	Remove the method from ```Ramen``` and add a ```final``` keyword to ```isTasty()``` in ```Noodle``` so that nobody changes this method in any other ```Noodle``` child class again.
 
-Example solution can be found in the [Noodle.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Parent_Class_Aspect_Modifiers/src/main/java/com/examples/ip6/Ramen.java) files
+Example solution can be found in the [Noodle.java](https://github.com/upliftdev/Foundations/blob/main/9.Inheritance_and_Polymorphism/Parent_Class_Aspect_Modifiers/src/main/java/com/examples/ip6/Ramen.java) files

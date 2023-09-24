@@ -23,7 +23,7 @@ We’ll go over three types of loops that you’ll see everywhere:
 - ```for``` loops
 - for-each loops
 
-<img src="https://github.com/upliftdev/Foundations/blob/main/Foundations/7.Loops/roundabout.gif" alt="function" width="500"/>
+<img src="https://github.com/upliftdev/Foundations/blob/main/7.Loops/roundabout.gif" alt="function" width="500"/>
 
 ## While Loop
 
@@ -144,7 +144,7 @@ So the code will run through the loop a total of five times.
 
 You’ll also hear the term “iteration” in reference to loops. When you *iterate*, it just means that you are repeating the same block of code.
 
-<img src="https://github.com/upliftdev/Foundations/blob/main/Foundations/7.Loops/For%20Loop/Java-loop-final.gif" alt="function" width="500"/>
+<img src="https://github.com/upliftdev/Foundations/blob/main/7.Loops/For_Loop/Java-loop-final.gif" alt="function" width="500"/>
 
 ```for``` loops aren’t just a nicer syntax; they also help us remember to increment our counter — something that is easy to forget when we increment with a ```while``` loop. Leaving out that line of code would cause an infinite loop — yikes!
 
@@ -250,7 +250,7 @@ The challenge is designed to weed out 99.5% programming job candidates who canno
 
 Want to give it a shot?
 
-<img src="https://github.com/upliftdev/Foundations/blob/main/Foundations/7.Loops/fizzbuzz.gif" alt="function" width="500"/>
+<img src="https://github.com/upliftdev/Foundations/blob/main/7.Loops/fizzbuzz.gif" alt="function" width="500"/>
 
 Write a **FizzBuzz.java** program that outputs numbers from 1 to 100… with a catch:
 

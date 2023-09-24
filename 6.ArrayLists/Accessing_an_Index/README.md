@@ -45,4 +45,4 @@ class ToDos {
 
 3. Use ```get()``` to access the second to-do element of ```poirotsToDos``` and print the result.
 
-Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/6.ArrayLists/Accessing_an_Index/src/main/java/com/examples/lists/ToDos.java) file.
+Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/6.ArrayLists/Accessing_an_Index/src/main/java/com/examples/lists/ToDos.java) file.

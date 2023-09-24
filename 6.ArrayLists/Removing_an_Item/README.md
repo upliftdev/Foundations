@@ -47,4 +47,4 @@ class ToDos {
 
 	So you can remove ```"play violin"``` from ```sherlocksToDos``` as well.
 
-Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/6.ArrayLists/Removing_an_Item/src/main/java/com/examples/lists/ToDos.java) file.
+Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/6.ArrayLists/Removing_an_Item/src/main/java/com/examples/lists/ToDos.java) file.

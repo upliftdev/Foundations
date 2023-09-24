@@ -35,4 +35,4 @@ class MostExpensive {
 
 	If it is, set ```mostExpensive``` equal to expense.
 
-Example solution can be found in the [MostExpensive.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/7.Loops/For_Each_Loop/src/main/java/com/examples/loops/MostExpensive.java) file
+Example solution can be found in the [MostExpensive.java](https://github.com/upliftdev/Foundations/blob/main/7.Loops/For_Each_Loop/src/main/java/com/examples/loops/MostExpensive.java) file

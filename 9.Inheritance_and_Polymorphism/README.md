@@ -21,7 +21,7 @@ There are several terms you’ll encounter frequently:
 - *Parent class*, *superclass*, and *base class* refer to the class that another class inherits from (like ```Shape```).
 - *Child class*, *subclass*, and *derived class* refer to a class that inherits from another class (like ```Triangle```).
 
-<img src="https://github.com/keldavis/Java-Practice/blob/master/Foundations/9.%20Inheritance%20and%20Polymorphism/inheritance.gif" alt="function" width="500"/>
+<img src="https://github.com/upliftdev/Foundations/blob/main/9.Inheritance_and_Polymorphism/inheritance.gif" alt="function" width="500"/>
 
 ## Intro to Inheritance
 
@@ -99,7 +99,7 @@ You may recall that Java class members use ```private``` and ```public``` access
 
 Well, no. But there is another access modifier we can use to keep a parent class member accessible to its child classes and to files in the package it’s contained in — and otherwise private: ```protected```.
 
-<img src="https://github.com/keldavis/Java-Practice/blob/master/Foundations/9.%20Inheritance%20and%20Polymorphism/access-modifiers-chart.png" alt="function" width="500"/>
+<img src="https://github.com/upliftdev/Foundations/blob/main/9.Inheritance_and_Polymorphism/access-modifiers-chart.png" alt="function" width="500"/>
 
 Here’s what ```protected``` looks like in use:
 
@@ -148,7 +148,7 @@ For example, the built-in operator ```+``` can be used for both ```double```s an
 
 Note that the reverse situation is not true; you cannot use a generic parent class instance where a child class instance is required. So an ```Orange``` can be used as a ```Fruit```, but a ```Fruit``` cannot be used as an ```Orange```.
 
-<img src="https://github.com/keldavis/Java-Practice/blob/master/Foundations/9.%20Inheritance%20and%20Polymorphism/polymorphism.gif" alt="function" width="500"/>
+<img src="https://github.com/upliftdev/Foundations/blob/main/9.Inheritance_and_Polymorphism/polymorphism.gif" alt="function" width="500"/>
 
 ## Method Overriding
 

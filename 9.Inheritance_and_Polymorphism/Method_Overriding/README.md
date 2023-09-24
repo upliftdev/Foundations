@@ -68,4 +68,4 @@ class Spaetzle extends Noodle {
 
 	Don’t forget to add ```@Override``` above the method to help with debugging.
 
-Example solution can be found in the [Noodle.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Method_Overriding/src/main/java/com/examples/ip5/Spaetzle.java) files
+Example solution can be found in the [Noodle.java](https://github.com/upliftdev/Foundations/blob/main/9.Inheritance_and_Polymorphism/Method_Overriding/src/main/java/com/examples/ip5/Spaetzle.java) files

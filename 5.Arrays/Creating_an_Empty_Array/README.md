@@ -45,4 +45,4 @@ public class Newsfeed {
 
 	For example, if I called ```setFavoriteArticle(2, "Celebrity Hands Throughout the Decades")```, the value of ```favoriteArticles``` at index ```2``` would be set to ```"Celebrity Hands Throughout the Decades"```.
 
-Example code can be found in the [Newsfeed.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/5.Arrays/Creating_an_Empty_Array/src/main/java/com/examples/arrays/Newsfeed.java) file.
+Example code can be found in the [Newsfeed.java](https://github.com/upliftdev/Foundations/blob/main/5.Arrays/Creating_an_Empty_Array/src/main/java/com/examples/arrays/Newsfeed.java) file.

@@ -23,4 +23,4 @@ public class Debug {
 
 	This program is supposed to find the ratio of a table’s dimensions, which is supposed to be 20 x 40.
 
-Example solution can be found in the [Debug.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/10.Debugging/Run-time-Errors/src/main/java/com/examples/debug2/Debug.java) file
+Example solution can be found in the [Debug.java](https://github.com/upliftdev/Foundations/blob/main/10.Debugging/Run-time-Errors/src/main/java/com/examples/debug2/Debug.java) file

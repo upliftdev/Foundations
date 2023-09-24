@@ -33,4 +33,4 @@ for (int i = 0; i < 5; i++) {
 }
 ```
 
-Example solution can be found in the [Coffee.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/7.Loops/For_Loop/src/main/java/com/examples/loops/Coffee.java) file
+Example solution can be found in the [Coffee.java](https://github.com/upliftdev/Foundations/blob/main/7.Loops/For_Loop/src/main/java/com/examples/loops/Coffee.java) file

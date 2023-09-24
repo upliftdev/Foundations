@@ -80,4 +80,4 @@ class BiangBiang extends Noodle {
 	- ```"soy sauce and chili oil"```
 
 
-Example solution can be found in the [BiangBiang.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Using_a_Child_Class_as_its_Parent_Class/src/main/java/com/examples/ip7/Noodle.java) files
+Example solution can be found in the [BiangBiang.java](https://github.com/upliftdev/Foundations/blob/main/9.Inheritance_and_Polymorphism/Using_a_Child_Class_as_its_Parent_Class/src/main/java/com/examples/ip7/Noodle.java) files

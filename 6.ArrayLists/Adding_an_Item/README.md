@@ -33,4 +33,4 @@ class ToDos {
 
 3. Use ```.add()``` to add ```toDo1```, ```toDo2```, and ```toDo3``` to ```toDoList```.
 
-Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/6.ArrayLists/Adding_an_Item/src/main/java/com/examples/lists/ToDos.java) file.
+Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/6.ArrayLists/Adding_an_Item/src/main/java/com/examples/lists/ToDos.java) file.

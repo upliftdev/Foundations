@@ -21,4 +21,4 @@ public class MorseCode {
 
 	Find the index where the substring ```. .- -``` (which means “eat”) begins!
 
-Example solution can be found in the [MorseCode.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/indexOf/src/main/java/com/examples/str/MorseCode.java) file
+Example solution can be found in the [MorseCode.java](https://github.com/upliftdev/Foundations/blob/main/8.String_Methods/indexOf/src/main/java/com/examples/str/MorseCode.java) file

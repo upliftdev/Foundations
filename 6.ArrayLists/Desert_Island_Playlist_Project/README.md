@@ -60,4 +60,4 @@ class Playlist {
 
 13. Nice work using ```ArrayList``` to build your desert island playlist!
 
-Example solution can be found in the [Playlist.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/6.ArrayLists/Desert_Island_Playlist_Project/src/main/java/com/examples/lists/Playlist.java) file
+Example solution can be found in the [Playlist.java](https://github.com/upliftdev/Foundations/blob/main/6.ArrayLists/Desert_Island_Playlist_Project/src/main/java/com/examples/lists/Playlist.java) file

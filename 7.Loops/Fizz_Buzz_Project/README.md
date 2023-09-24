@@ -30,5 +30,5 @@ java FizzBuzz
 	When you are ready, try to implement a solution.
 
 
-Example solution can be found in the [FizzBuzz.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/7.Loops/Fizz_Buzz_Project/src/main/java/com/examples/loops/FizzBuzz.java) file
+Example solution can be found in the [FizzBuzz.java](https://github.com/upliftdev/Foundations/blob/main/7.Loops/Fizz_Buzz_Project/src/main/java/com/examples/loops/FizzBuzz.java) file
 

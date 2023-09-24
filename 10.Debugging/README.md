@@ -13,7 +13,7 @@ On your programming journey, you are destined to encounter innumerable red error
 - [Debugging Techniques](#Debugging-Techniques)
 - [Review](#Review)
 
-<img src="https://github.com/keldavis/Java-Practice/blob/master/Foundations/10.%20Debugging/bug.gif" alt="bug" width="500"/>
+<img src="https://github.com/upliftdev/Foundations/blob/main/10.Debugging/bug.gif" alt="bug" width="500"/>
 
 ## Syntax Errors
 
@@ -29,7 +29,7 @@ Some common syntax errors are:
 
 Here’s an example of a syntax error message:
 
-<img src="https://github.com/keldavis/Java-Practice/blob/master/Foundations/10.%20Debugging/java-syntax-error.png" alt="Syntax-Error" width="500"/>
+<img src="https://github.com/upliftdev/Foundations/blob/main/10.Debugging/java-syntax-error.png" alt="Syntax-Error" width="500"/>
 
 Usually the error is on the exact line indicated by the compiler, or the line just before it; however, if the problem is incorrectly nested braces, the actual error may be at the beginning of the nested block.
 
@@ -50,7 +50,7 @@ There is no way for the compiler to know about these kinds of errors when the pr
 
 Here’s an example of a run-time error message:
 
-<img src="https://github.com/keldavis/Java-Practice/blob/master/Foundations/10.%20Debugging/java-run-time-error.png" alt="Run-Time-Error" width="500"/>
+<img src="https://github.com/upliftdev/Foundations/blob/main/10.Debugging/java-run-time-error.png" alt="Run-Time-Error" width="500"/>
 
 Example code can be found in the [Run-time Errors](https://github.com/upliftdev/Foundations/tree/main/10.Debugging/Run-time-Errors) folder
 

@@ -39,4 +39,4 @@ class CalculateTotal {
 
 3. Inside the ```for``` loop, add the item’s value to ```total```.
 
-Example solution can be found in the [CalculateTotal.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/7.Loops/Iterating_Over_Arrays_and_ArrayLists/src/main/java/com/examples/loops/CalculateTotal.java) file
+Example solution can be found in the [CalculateTotal.java](https://github.com/upliftdev/Foundations/blob/main/7.Loops/Iterating_Over_Arrays_and_ArrayLists/src/main/java/com/examples/loops/CalculateTotal.java) file

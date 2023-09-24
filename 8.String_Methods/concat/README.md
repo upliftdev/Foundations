@@ -23,4 +23,4 @@ public class CombineNames {
 
 	Print out your full name using ```concat()```.
 
-Example solution can be found in the [CombineNames.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/8.String_Methods/concat/src/main/java/com/examples/str/CombineNames.java) file
+Example solution can be found in the [CombineNames.java](https://github.com/upliftdev/Foundations/blob/main/8.String_Methods/concat/src/main/java/com/examples/str/CombineNames.java) file

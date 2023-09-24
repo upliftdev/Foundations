@@ -54,4 +54,4 @@ class Spaghetti {
 
 	Print out its ```texture``` field to the terminal.
 
-Example solution can be found in the [Noodle.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/9.Inheritance_and_Polymorphism/Intro_to_Inheritance/src/main/java/com/examples/ip3/Spaghetti.java) files
+Example solution can be found in the [Noodle.java](https://github.com/upliftdev/Foundations/blob/main/9.Inheritance_and_Polymorphism/Intro_to_Inheritance/src/main/java/com/examples/ip3/Spaghetti.java) files

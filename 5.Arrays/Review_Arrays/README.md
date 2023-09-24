@@ -44,4 +44,4 @@ For example, if the array has 7 elements, the printout should read:
 The number of students in the class is 7.
 ```
 
-Example code can be found in the [Classroom.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/5.Arrays/Review_Arrays/src/main/java/com/examples/arrays/Classroom.java) file.
+Example code can be found in the [Classroom.java](https://github.com/upliftdev/Foundations/blob/main/5.Arrays/Review_Arrays/src/main/java/com/examples/arrays/Classroom.java) file.

@@ -44,4 +44,4 @@ class ToDos {
 
 3. Modify ```poirotsToDos``` so that the value at ```"trim mustache"``` becomes ```"listen to Captain Hastings for amusement"```.
 
-Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/Foundations/6.ArrayLists/Changing_a_Value/src/main/java/com/examples/lists/ToDos.java) file.
+Example solution can be found in the [ToDos.java](https://github.com/upliftdev/Foundations/blob/main/6.ArrayLists/Changing_a_Value/src/main/java/com/examples/lists/ToDos.java) file.
