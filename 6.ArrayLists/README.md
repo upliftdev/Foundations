@@ -21,7 +21,7 @@ To represent dynamic lists, we can use Java’s ```ArrayList```s. ```ArrayList``
 - Add elements
 - Remove elements
 
-Remember how we had to import ```java.util.Arrays``` in order to use additional array methods? To use an ```ArrayList``` at all, we need to import them from Java’s ```util``` package as well:
+Remember how we had to import ```.util.Arrays``` in order to use additional array methods? To use an ```ArrayList``` at all, we need to import them from Java’s ```util``` package as well:
 
 ```
 import java.util.ArrayList;

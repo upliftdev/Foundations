@@ -16,7 +16,7 @@ class Playlist {
 
 2. We’ve provided you with **Playlist.java**.
 
-	- Since you’re working with ```ArrayList```s, import ```ArrayList``` from ```java.util```.
+	- Since you’re working with ```ArrayList```s, import ```ArrayList``` from ```.util```.
 	- Create a ```Playlist``` class with a ```main()``` method.
 
 3. Inside ```main()```, create a new ```ArrayList``` called ```desertIslandPlaylist``` that can hold ```String``` values.

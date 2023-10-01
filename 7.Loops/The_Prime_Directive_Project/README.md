@@ -26,7 +26,7 @@ class PrimeDirective {
 
 	Inside ```main()```, an instance of ```PrimeDirective``` (```pd```) has been instantiated. Below that, you’ll see an ```int``` array called ```numbers``` that has a series of integers.
 
-	**To Do**: Import ```ArrayList``` from ```java.util``` at the very top of your program, above the ```PrimeDirective``` class. This will allow you to use ```ArrayList```s.
+	**To Do**: Import ```ArrayList``` from ```.util``` at the very top of your program, above the ```PrimeDirective``` class. This will allow you to use ```ArrayList```s.
 
 3. First, we need a way to determine whether a number is prime or isn’t prime.
 
@@ -80,7 +80,7 @@ class PrimeDirective {
 	- ```2``` should return ```true```
 	- ```0``` should return ```false```
 
-	Don’t forget to run your code with the following: ```java PrimeDirective```
+	Don’t forget to run your code with the following: ``` PrimeDirective```
 
 10. Nice work! Now, all that’s left is building an ```ArrayList``` of the prime numbers in the ```numbers``` array.
 
@@ -103,6 +103,6 @@ class PrimeDirective {
 
 	In ```main()```, test out ```pd.onlyPrimes()``` on the ```numbers``` array.
 
-	Don’t forget to run your code with: ```java PrimeDirective```
+	Don’t forget to run your code with: ``` PrimeDirective```
 
 Example solution can be found in the [PrimeDirective.java](https://github.com/upliftdev/Foundations/blob/main/7.Loops/The_Prime_Directive_Project/src/main/java/com/examples/loops/PrimeDirective.java) file

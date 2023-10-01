@@ -29,7 +29,7 @@ public class Newsfeed {
 
 2. In order to make our printout of the ```topics``` array more helpful, we are going to want to use the ```toString()``` method from the ```Arrays``` package.
 
-	To use it, we first must import the ```Arrays``` package from ```java.util```. Import the package at the top of the **Newsfeed.java** file.
+	To use it, we first must import the ```Arrays``` package from ```.util```. Import the package at the top of the **Newsfeed.java** file.
 
 3. Now that you have the ```Arrays``` package, use its ```toString()``` method to print out the ```topics``` array in the ```main()``` method.
 

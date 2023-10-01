@@ -18,7 +18,7 @@ class ToDos {
 }
 ```
 
-2. Import the ```ArrayList``` package from ```java.util```.
+2. Import the ```ArrayList``` package from ```.util```.
 
 3. Create a new ```ArrayList``` that will contain ```String``` elements and call it ```toDoList```.
 

@@ -366,7 +366,7 @@ public class Compiling {
 
    Our code contains a broken program so we can see how compilers help us catch mistakes. **Don’t make any corrections!**
 
-   In the terminal, type this command: ```javac Compiling.java``` and press ```enter``` or ```return```.
+   In the terminal, type this command: ```c Compiling.java``` and press ```enter``` or ```return```.
 
 3. Do you see the error?
 
