@@ -25,5 +25,8 @@ Build a simple bank application that does accomplishes basic banking features
    From your main method create two customers one having a savings account and one having a current account 
    
    Use System.out.println to print any transactions
+
+ ## Class model
+![alt text](https://github.com/upliftdev/Foundations/blob/main/Excercises/Assignment/Bank-System-V1.jpg)
   
   
